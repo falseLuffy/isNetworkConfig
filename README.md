@@ -6,6 +6,6 @@
 ```
 ## 使用
 ```javascript
- import isNetworkConfig from 'isNetworkConfig'
+ import isNetworkConfig from 'is-network-config'
  const is = isNetworkConfig(ip, mask, gateway)
 ```
