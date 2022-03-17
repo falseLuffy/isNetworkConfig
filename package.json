@@ -1,5 +1,5 @@
 {
-  "name": "isnetworkconfig",
+  "name": "is-network-config",
   "version": "1.0.0",
   "description": "判断ip、网关、掩码组合是否合法",
   "main": "./dist/isNetworkConfig.min.js",
