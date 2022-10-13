@@ -2,7 +2,7 @@
 
 ## 安装  
 ```shell script
- npm install isNetworkConfig 
+ npm install is-network-config 
 ```
 ## 使用
 ```javascript
